@@ -24,7 +24,7 @@
     font-size: 30px;    
  font-weight: bold;    
    text-decoration: none;     
- color: #BE5985; } 
+ color: #be5985; } 
 .nav-links {    
  list-style: none;    
  display: flex;    
@@ -34,7 +34,7 @@
   position: relative;    
    margin: 0 15px;    
    text-decoration: none;    
-   color: #BE5985;     
+   color: #be5985;     
    font-weight: bold;     
    display: inline-block; }  
    .nav-links-text::after {    
@@ -44,14 +44,14 @@
   bottom: -2px;  
   width: 0;     
    height: 2px;    
-   background-color: #BE5985;    
+   background-color: #be5985;    
     transition: all 0.3s ease-out;     
    transform: translateX(-50%); }  
   .nav-links-text:hover::after {    
    width: 100%; }  
   .btn{   
-   border: 2px solid #BE5985;    
-   color: #BE5985;    
+   border: 2px solid #be5985;    
+   color: #7c93c3;    
   padding: 3px 10px;   
    border-radius: 20px;  
    text-decoration: none;   
@@ -65,12 +65,12 @@
   padding: 5px 12px;    
    font-size: 20px; } 
    .btn:hover{    
-    background-color: #BE5985;   
+    background-color: #be5985;   
     transition: 0.2s;  
  color: #FFEDFA; } 
   .btn-1-text{    
   text-decoration: none;     
-   color: #BE5985; }  
+   color: #be5985; }  
   .btn-1-text:hover{    
   color: #FFEDFA; } 
    .hero {    
@@ -79,17 +79,18 @@
    padding: 50px;    
    position: relative; } 
    .hero h1{    
-   color: #BE5985;   
+   color: #be5985;   
  margin-top: 5px;   
    margin-bottom: 20px; }  
    h1 {   
-     color: #205781;   
-   font-size: 2.5em; }
+     color:#205878;   
+   font-size: 2.5em; 
+  }
     p {    
    color: #555; 
   font-size: 1.2em; }  
   .cta {   
-  background: #EC7FA9;   
+  background: #ec7fa9;   
    color: white;   
    border: none;   
     margin-top: 30px; 
@@ -109,7 +110,7 @@
     position: absolute;   
     top: 280px;    
    right: 70px;  
-   background: #20a090;    
+   background: #204090;    
    color: white;    
    padding: 15px;    
   border-radius: 50%; 
@@ -123,7 +124,7 @@
    .welcome{   
    text-align: center;   
     margin-top: 15px;   
-    font-size: 20px;color: #BE5985;  
+    font-size: 20px;color: #be5985;  
    margin-bottom: 15px; } 
    .welcome-sub{    
    margin-top: 15px; 
@@ -133,7 +134,7 @@
    margin: auto;   
    padding: 50px 0; } 
     h2 {    
-   color: #BE5985;   
+   color: #be5985;   
    text-align: center;  
    margin-top: -30px;    
    font-size: 30px;   
@@ -159,19 +160,19 @@
     object-fit: cover;    
    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); }  
    .teach-img:hover{    
-   border: 3px solid #BE5985;    
+   border: 3px solid #be5985;    
     transition: 0.2s;     
     cursor: pointer; }  
    .teacher h3 {     
      margin: 10px 0 5px;    
-    color: #BE5985; } 
+    color: #be5985; } 
    .teacher p {    
     color: #666;   
     font-size: 16px; }  
    .footer {    
    margin-top: 70px;  
     background-color: #FFEDFA;     
-   color: #BE5985;    
+   color: #be5985;    
     padding: 40px 0;    
    text-align: center; } 
    .footer-container {  
@@ -186,7 +187,7 @@
   .header-third {   
    font-size: 25px; 
     margin-bottom: 15px; 
-    color: #BE5985; } 
+    color: #be5985; } 
   .footer-section p, 
   .footer-section ul { 
    font-size: 16px; 
@@ -204,7 +205,7 @@
     text-decoration: none;  
    transition: color 0.3s ease; } 
   .list-footer a:hover {    
-   color: #BE5985;    
+   color: #be5985;    
   font-weight: bold; } 
  .social-icons a {   
   font-size: 1.5em; 
@@ -213,6 +214,6 @@
   transition: color 0.3s ease;
  } 
  .social-icons a:hover {
-  color:#BE5985;
+  color:#be5985;
  }
                    
